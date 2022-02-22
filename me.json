@@ -3,10 +3,14 @@
     "age" : 3 + "n",
     "nickName" : "Gumjung",
     "family" : [ 
-	{ "name": "라라",
-    	  "relation" : "동생"
+	{ "name": "RR",
+    	  "relation" : "SISTER"
   	},  
-	{
+	{ "name": "JH",
+    	  "relation" : "MOTHER"
+	}
+	{ "name": "YK",
+    	  "relation" : "FATHER"
 	}
     ],
     "birthday" : date("12-10"),
@@ -23,7 +27,3 @@
     }
 }: Me
   
-  {
-    "name": "최가람",
-    "relation" : "동생"
-  }: Family
