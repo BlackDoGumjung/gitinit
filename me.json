@@ -1,9 +1,15 @@
 {
-    "name" : "Jessica choi"
+    "name" : "Jessica choi",
     "age" : 3 + "n",
     "nickName" : "Gumjung",
-    "family" : [ "아버지" , "어머니" , "동생" ],
-    "birthday" : "12월 10월",
+    "family" : [ 
+	{ "name": "라라",
+    	  "relation" : "동생"
+  	},  
+	{
+	}
+    ],
+    "birthday" : date("12-10"),
     "partner" : {  
 	"name" : "진짜 2.5D 쓰려다가 쪽팔려서 관둔 누군가" ,
 	"relation" : "최애"
